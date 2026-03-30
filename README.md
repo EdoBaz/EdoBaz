@@ -1,6 +1,6 @@
 # Hi, I'm Edoardo 👋
 
-🎓 MSc in Computer Science and Engineering — 110L - University of Verona
+🎓 MSc in Computer Science and Engineering — 110L — University of Verona
 
 I enjoy building software projects, experimenting with new ideas and continuously challenging myself through development.
 
